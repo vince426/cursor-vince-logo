@@ -10,5 +10,8 @@ steps that I completed:
 - step 5: cloned the repository via running `git clone https://github.com/vince426/cursor-vince-logo.git` on my cursor terminal
 - step 6: wrote readme.md content
 - step 7: will be pushing this update on GitHub
+    - `git add .`
+    - `git commit -m "updated readme.md"`
+    - `git push origin main`
 
 there were no issues that I ran into while executing the steps.
