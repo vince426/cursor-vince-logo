@@ -1,3 +1,5 @@
+# April 26, 2026: Initial Steps
+
 tools that I installed:
 - Cursor (plus Claude Code for VSCode and Codex extensions)
 - Git is already installed in my windows 11
